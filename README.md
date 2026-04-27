@@ -1,10 +1,13 @@
-# 👕 ClothStore AI - Gen AI Powered E-Commerce
+# 👕 LUXE ClothStore AI - Gen AI Powered E-Commerce
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/atlas)
 [![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-F05023?style=for-the-badge&logo=ai&logoColor=white)](https://pydantic.dev/)
 
-Welcome to **ClothStore AI**! This project is a modern LLM-powered shopping experience. It features a sleek **Frontend** (Vanilla JS), a robust **FastAPI Backend**, a **MongoDB** database, and an intelligent **AI Shopping Assistant** powered by **Pydantic AI**.
+Welcome to **LUXE ClothStore AI**! This project is a modern LLM-powered shopping experience. It features a sleek **Frontend** (Vanilla JS), a robust **FastAPI Backend**, a **MongoDB** database, and an intelligent **AI Shopping Assistant** powered by **Pydantic AI**.
+---
+
+![Alt Text](srcimg/main.png)
 
 ---
 
@@ -20,7 +23,7 @@ Welcome to **ClothStore AI**! This project is a modern LLM-powered shopping expe
 
 ## 🛠️ Technology Stack
 
-We built this mall using the best modern materials:
+The website was built using the best modern materials:
 
 ### Frontend (The Storefront)
 - **Native Vanilla JS** (Loads the store visually instantly)
@@ -92,6 +95,4 @@ Here are the primary routes:
 
 ---
 
-## 📝 License
 
-Distributed under the **MIT License**. Have fun building!
